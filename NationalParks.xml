@@ -121,4 +121,16 @@
 			<Zip>37738</Zip>
 		</Address>
 	</NationalPark>
+
+	<NationalPark Rating='4.7'>
+		<Name>Arches</Name>
+		<Phone>435-719-2299</Phone>
+		<Address NearestAirport='Canyonlands Field'>
+			<Number>2282</Number>
+			<Street>SW Resource Blvd</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
 </NationalParks>
